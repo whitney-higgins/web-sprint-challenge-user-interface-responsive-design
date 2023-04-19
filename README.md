@@ -90,8 +90,8 @@ Review the provided design files for the menu page.
 * [x] Use the article element for the menu and a div inside of it; change the div's class to "menu-container"
 * [x] Create a container for each section (e.g. drinks or entrees) with class "menu-section"
 * [x] Create a container for each item (e.g. soda or burger) with class "menu-item"
-* [ ] Add an H4 for every price and title of the menu, two h4 for each menu
-* [ ] Add a p element for every description, second line such as (v) will require it's own p
+* [x] Add an H4 for every price and title of the menu, two h4 for each menu
+* [x] Add a p element for every description, second line such as (v) will require it's own p
 ​
 Colors and fonts for desktop:
 Light text: rgb(225, 239, 230);
