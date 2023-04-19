@@ -49,6 +49,7 @@ table {
 
 * {
     box-sizing: border-box;
+    color: rgb(225, 239, 230);
 }
 
 html {
@@ -56,7 +57,6 @@ html {
     min-width: 428px;
     width: 100%;
     font-size: 62.5%;
-    color: white;
 }
 
 body {
@@ -200,6 +200,24 @@ footer {
 /* mobile media query */
 @media (max-width: 428px) {
     /* header section */
+    header div {
+        background-color: rgb(0, 4, 17, .8)
+    }
+    h1 {
+        text-align: center;
+    }
+    nav {
+        text-align: center;
+    }
+    nav div {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-bottom: 6%;
+    }
+    nav a {
+        margin-right: 2%;
+    }
     
 
     /* gallery section */
